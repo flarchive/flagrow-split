@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of flagrow/split.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/split) or the [upstream repository](https://github.com/flagrow/split).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/flagrow-split/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**15** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/flagrow-split/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.2` | 2017-10-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.2) |
+| `0.3` | 2018-11-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.3) |
+| `0.3.1` | 2018-11-26 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.3.1) |
+| `0.3.2` | 2018-12-10 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.3.2) |
+| `0.4` | 2019-07-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.4) |
+| `0.4.1` | 2019-07-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.4.1) |
+| `0.4.2` | 2019-07-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.4.2) |
+| `0.4.3` | 2019-07-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.4.3) |
+| `0.4.4` | 2020-06-10 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.4.4) |
+| `0.5.0` | 2020-10-22 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/flagrow-split/tree/archive/v0.5.0) |
+
+[View all 15 versions](https://github.com/flarchive/flagrow-split/tags)
 
 Catalog entry: [packages/flagrow-split.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-split.json)
 
