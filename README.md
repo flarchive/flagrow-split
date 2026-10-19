@@ -1,8 +1,14 @@
-# flagrow/split (Archive)
+# flagrow-split (Archive)
 
-> **Read-only archive of released versions of flagrow/split.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/split) or the [upstream repository](https://github.com/flagrow/split).
+> **Read-only archive of released versions for flagrow/flarum-ext-split, flagrow/split.** Not for installation: use Packagist or the [upstream repository](https://github.com/flagrow/split).
 
-**15** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/flagrow-split/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**15** versions archived · Latest: [`0.2`](https://github.com/flarchive/flagrow-split/tree/archive/v0.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`flagrow/flarum-ext-split`](https://packagist.org/packages/flagrow/flarum-ext-split)
+- [`flagrow/split`](https://packagist.org/packages/flagrow/split)
 
 ## Archived Versions
 
@@ -21,7 +27,10 @@
 
 [View all 15 versions](https://github.com/flarchive/flagrow-split/tags)
 
-Catalog entry: [packages/flagrow-split.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-split.json)
+## Catalog entries
+
+- [`flagrow/flarum-ext-split`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-flarum-ext-split.json)
+- [`flagrow/split`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-split.json)
 
 ## About this archive
 
